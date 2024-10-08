@@ -1,1 +1,1 @@
-#Primer proyecto con python local y git
+# Primer proyecto con Python Local y Git
